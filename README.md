@@ -12,7 +12,6 @@ A data analytics project that investigates whether review length correlates with
 
 ## 📁 Project Structure
 ```
-├── Reviews.csv                        # Raw dataset (10,000 rows)
 ├── Amazon_Reviews_Analysis.ipynb      # Google Colab notebook
 ├── amazon_failed_analysis.html        # Final interactive dashboard
 └── README.md
@@ -65,15 +64,6 @@ Review length shows a **weak correlation** with sentiment strength. Longer revie
 
 ---
 
-## 🚀 How to Run
-1. Download `Reviews.csv` from this repo
-2. Open `Amazon_Reviews_Analysis.ipynb` in Google Colab
-3. Upload `Reviews.csv` when prompted
-4. Run all cells in order
-5. Download the generated `amazon_failed_analysis.html`
-6. Open in any browser
-
----
 
 ## 👩‍💻 Author
 **Varshini**
